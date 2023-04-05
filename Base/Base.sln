@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{D8DA9F03-C694-4D25-B047-08FDE5B67467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownLoadWeb", "DownLoadWeb\DownLoadWeb.csproj", "{B5B89A04-7C97-4E34-912C-B694E1A8DB99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8DA9F03-C694-4D25-B047-08FDE5B67467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DA9F03-C694-4D25-B047-08FDE5B67467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DA9F03-C694-4D25-B047-08FDE5B67467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DA9F03-C694-4D25-B047-08FDE5B67467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B89A04-7C97-4E34-912C-B694E1A8DB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B89A04-7C97-4E34-912C-B694E1A8DB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B89A04-7C97-4E34-912C-B694E1A8DB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B89A04-7C97-4E34-912C-B694E1A8DB99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FF59BFE-FA97-4A5E-B430-2D0B69335D63}
+	EndGlobalSection
+EndGlobal
